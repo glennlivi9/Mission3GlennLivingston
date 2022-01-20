@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DED04F30-E88F-4419-A9BD-14731F15B6C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MissionGlenn/wwwroot/index.html">
+    <Files>
+      <File FileName="MissionGlenn/Program.cs" Line="16" Column="1" />
+      <File FileName="MissionGlenn/Startup.cs" Line="24" Column="35" />
+      <File FileName="MissionGlenn/index.html" Line="14" Column="15" />
+      <File FileName="MissionGlenn/wwwroot/js/mission.js" Line="13" Column="29" />
+      <File FileName="MissionGlenn/wwwroot/css/EmptyCSSFile.css" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MissionGlenn" expanded="True">
+            <Node name="MissionGlenn" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+                <Node name="index.html" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MissionGlenn PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
