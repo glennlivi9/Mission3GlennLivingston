@@ -14,7 +14,8 @@
     var iExamPct = iExamWeight * $("#exam").val();
     var iIntexPct = iIntexWeight * $("#intex").val();
 
-    var totalPct = ((iAssignPct + iGroupPct + iQuizPct + iExamPct + iIntexPct))
+    var totalPct = ((iAssignPct + iGroupPct + iQuizPct + iExamPct + iIntexPct));
+    var totalPctRounded = totalPct.toFixed(2);
 
     if (totalPct > 94) {
         letterGrade = "A"
@@ -52,6 +53,6 @@
         letterGrade = "F"
     }
 
-    alert("Your final grade is " + totalPct + "% with a letter grade of " + letterGrade )
+    alert("Your final grade is " + totalPctRounded + "% with a letter grade of " + letterGrade )
 
 })

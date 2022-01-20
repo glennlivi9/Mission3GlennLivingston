@@ -6,13 +6,17 @@
 
   <ItemGroup>
     <Content Remove="wwwroot\" />
-    <Content Remove="wwwroot\index.html" />
     <Content Remove="wwwroot\img\" />
     <Content Remove="wwwroot\js\" />
     <Content Remove="wwwroot\lib\" />
     <Content Remove="wwwroot\lib\jquery\" />
     <Content Remove="wwwroot\css\" />
     <Content Remove="wwwroot\lib\bootstrap\" />
+    <Content Remove="wwwroot\Views\.DS_Store" />
+    <Content Remove="wwwroot\Views\" />
+    <Content Remove="wwwroot\Controllers\" />
+    <Content Remove="wwwroot\Models\" />
+    <Content Remove="wwwroot\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\" />
@@ -22,8 +26,12 @@
     <Folder Include="wwwroot\lib\jquery\" />
     <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\lib\bootstrap\" />
+    <Folder Include="wwwroot\Views\" />
+    <Folder Include="wwwroot\Controllers\" />
+    <Folder Include="wwwroot\Models\" />
+    <Folder Include="wwwroot\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\Views\.DS_Store" />
   </ItemGroup>
 </Project>

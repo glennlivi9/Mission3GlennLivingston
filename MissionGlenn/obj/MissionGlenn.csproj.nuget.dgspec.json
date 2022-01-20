@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/glennlivingston/Projects/MissionGlenn/MissionGlenn/MissionGlenn.csproj": {}
+    "/Users/glennlivingston/Projects/Mission3GlennL/MissionGlenn/MissionGlenn.csproj": {}
   },
   "projects": {
-    "/Users/glennlivingston/Projects/MissionGlenn/MissionGlenn/MissionGlenn.csproj": {
+    "/Users/glennlivingston/Projects/Mission3GlennL/MissionGlenn/MissionGlenn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/glennlivingston/Projects/MissionGlenn/MissionGlenn/MissionGlenn.csproj",
+        "projectUniqueName": "/Users/glennlivingston/Projects/Mission3GlennL/MissionGlenn/MissionGlenn.csproj",
         "projectName": "MissionGlenn",
-        "projectPath": "/Users/glennlivingston/Projects/MissionGlenn/MissionGlenn/MissionGlenn.csproj",
+        "projectPath": "/Users/glennlivingston/Projects/Mission3GlennL/MissionGlenn/MissionGlenn.csproj",
         "packagesPath": "/Users/glennlivingston/.nuget/packages/",
-        "outputPath": "/Users/glennlivingston/Projects/MissionGlenn/MissionGlenn/obj/",
+        "outputPath": "/Users/glennlivingston/Projects/Mission3GlennL/MissionGlenn/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/glennlivingston/.config/NuGet/NuGet.Config"
